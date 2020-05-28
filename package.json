@@ -1,7 +1,8 @@
 {
   "name": "aromi",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.1",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0"
