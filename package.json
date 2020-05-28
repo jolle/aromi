@@ -1,0 +1,15 @@
+{
+  "name": "aromi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "scripts": {
+    "build": "rm -rf build; ./node_modules/.bin/tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
+}

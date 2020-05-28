@@ -1,0 +1,7 @@
+build
+*.log
+node_modules
+*.zip
+example*
+test*
+.DS_Store
